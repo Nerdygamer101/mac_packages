@@ -24,5 +24,3 @@ done
 echo "Installing packages..."
 echo "List of packages: $packages"
 brew install $packages
-
-echo "All packages installed successfully."
